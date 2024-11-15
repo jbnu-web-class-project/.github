@@ -37,6 +37,7 @@
 ### ☁️ 인프라 (Infrastructure)
 | 기술         | 설명                        |
 |--------------|-----------------------------|
+| ![Jcloud](https://img.shields.io/badge/Jcloud-61DAFB?style=flat&logo=Jcloud&logoColor=white) | 프라이빗 클라우드 환경 |
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 컨테이너 오케스트레이션 |
 | ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white) | 서비스 메시 설정 |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | 컨테이너 관리 도구 |
@@ -83,9 +84,8 @@
   <img src="https://github.com/user-attachments/assets/ceb9d4c8-6ba5-4ae3-ab58-f296dbd0474e" width="70%" alt="Image 1">
 </div>
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/c607f19a-f7d0-4623-8ca7-08b010d7da59" width="70%" alt="Image 2">
+  <img src="https://github.com/user-attachments/assets/aab6a5a9-c0d7-4cc9-92e5-495a0742c9df" width="70%" alt="Image 2">
 </div>
-
 
 ## Sprint 계획
 <div align="left">
