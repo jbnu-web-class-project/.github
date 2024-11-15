@@ -60,6 +60,8 @@
 - **모니터링**: 서비스 메시 설정
 
 ## Sprint 계획
+![image](https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee) ![image](https://github.com/user-attachments/assets/90c58818-f9db-45f0-ac0b-df787aa75e15)
+
 ### 플랜 (Plan)
 - **주제 선정**: 완료 (2024/10/10 - 2024/10/12)
 - **프로젝트 구상도 작성**: 진행 중 (2024/10/13)
@@ -95,10 +97,4 @@
 ---
 
 프로젝트와 관련한 질문이 있다면, 언제든지 문의해 주세요!
-
-
-![image](https://github.com/user-attachments/assets/f42f3539-d02e-4d01-a1cf-f6f0422c6393)
-
-
-![image](https://github.com/user-attachments/assets/5dd5069c-b692-4fe9-bde2-bb5b8965d3aa)
 
