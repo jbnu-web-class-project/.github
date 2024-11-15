@@ -64,14 +64,20 @@
 ## DB 구성 (ERD CLOUD)
 
 ## CICD 및 MSA 구상도
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/ceb9d4c8-6ba5-4ae3-ab58-f296dbd0474e" width="70%" alt="Image 1">
+</div>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/c607f19a-f7d0-4623-8ca7-08b010d7da59" width="70%" alt="Image 2">
+</div>
 
 
 ## Sprint 계획
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee" width="45%" alt="Sprint Plan Image 1">
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee" width="70%" alt="Sprint Plan Image 1">
 </div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/90c58818-f9db-45f0-ac0b-df787aa75e15" width="45%" alt="Sprint Plan Image 2">
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/90c58818-f9db-45f0-ac0b-df787aa75e15" width="70%" alt="Sprint Plan Image 2">
 </div>
 
 ### 플랜 (Plan)
