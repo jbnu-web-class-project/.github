@@ -4,6 +4,15 @@
 - **시작일**: 2024년 10월 9일
 - **요구사항**: 기능 및 비기능 요구사항, Use Case (정의서), Class Diagram, Sequence Diagram, UI 정의서, Activity Diagram
 
+## 프로젝트 목표
+ 저희는 울산 HD 축구팀과 기아 타이거즈 야구팀을 좋아하는 팀원들이 함께 모여, 축구와 야구를 비롯한 프로스포츠 팬들을 위한 쇼핑몰을 만들게 되었습니다.
+
+이 쇼핑몰은 사용자가 응원하는 팀을 선택하면 그 팀에 맞는 맞춤형 홈페이지를 제공하고, 쇼핑은 물론 중고거래와 커뮤니티 활동까지 한곳에서 즐길 수 있도록 설계하였습니다.
+
+당근마켓이 이웃 간의 중고거래를 중심으로 한다면, 저희는 같은 팀을 응원하는 팬들끼리의 중고거래와 소통에 초점을 맞췄습니다.
+
+가입 시 응원팀을 설정하면 홈페이지가 자동으로 사용자 취향에 맞게 꾸며지고, 쇼핑, 중고거래, 커뮤니티 기능을 통해 같은 팀 팬들과 더 가까워질 수 있는 공간을 제공합니다. 저희는 팬들이 함께 어울리고, 팀을 응원하며, 다양한 활동을 즐길 수 있는 특별한 플랫폼을 만들어가고자 합니다.
+
 ## 프로젝트 관리
 - **프로세스**: Agile
 - **회의**: 정기 회의 진행
@@ -60,8 +69,14 @@
 - **모니터링**: 서비스 메시 설정
 
 ## UI 구성 (FIgma)
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/d8e7dba6-06fb-4ef4-b184-15d3b36641b8" width="70%" alt="Image 1">
+</div>
 
 ## DB 구성 (ERD CLOUD)
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/fa3a7f6a-6db8-4559-ae6a-3088faa09708" width="70%" alt="Image 1">
+</div>
 
 ## CICD 및 MSA 구상도
 <div align="left">
