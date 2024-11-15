@@ -60,7 +60,10 @@
 - **모니터링**: 서비스 메시 설정
 
 ## Sprint 계획
-![image](https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee) ![image](https://github.com/user-attachments/assets/90c58818-f9db-45f0-ac0b-df787aa75e15)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee" width="45%" alt="Sprint Plan Image 1">
+  <img src="https://github.com/user-attachments/assets/90c58818-f9db-45f0-ac0b-df787aa75e15" width="45%" alt="Sprint Plan Image 2">
+</div>
 
 ### 플랜 (Plan)
 - **주제 선정**: 완료 (2024/10/10 - 2024/10/12)
