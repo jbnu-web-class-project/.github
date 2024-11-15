@@ -41,24 +41,11 @@
 | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) | GitOps 기반 배포 도구 |
 | ![ERD Cloud](https://img.shields.io/badge/ERD%20Cloud-FF6F00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICAgIDxwYXRoIGQ9Ik04Ni4xMTQgMTUuMzc3QzgwLjE2IDkuNDI2IDcxLjk4MyA2IDYzLjUgNmMtOC40ODMgMC0xNi42NiAzLjQyNi0yMi42MTEgOS4zNzdsLTEuMTg5IDEuMTg5IDE5LjI2NyAxOS4yNjdMNDQuNCAyNS4zNDVjNC4zOTUtNC4zOTUgMTAuMjgzLTYuODU1IDE2LjA5OS02Ljg1NSAzLjc2MiAwIDcuMzM5IDEuMDE5IDEwLjQ4MSAyLjk0OUw2Ni4xMSAzOC4wOTVsLTMwLjcxNiAzMC43MTZhMzYuMTEzIDM2LjExMyAwIDAwMTEuMTQ0IDUuNzZsNDYuMDY5IDQ2LjA3YzQuMzQ4IDQuMzQ4IDkuOTY1IDYuNzI2IDE1Ljk2NiA2LjcyNiA2LjA1MSAwIDExLjc1OS0yLjQ3NyAxNi4xNzEtNi44NTVsMS4xODktMS4xODktMTkuMjY3LTE5LjI2N2w5LjgxOC05LjgxOGM1Ljk0OCA1Ljk0OCA1LjQ4MiAxNS4zOTctLTEuMTk4IDIxLjA3NWwtNDYuMDY5IDQ2LjA3Yy0zLjEyMyAzLjEyMy03LjI0MSA0LjY4OC0xMS40MzEgNC42ODgtNC4xODkgMC04LjMwOC0xLjU2NC0xMS40MzEtNC42ODhsLTQ2LjA3LTQ2LjA3Yy01Ljk0OC01Ljk0OC01LjQ4Mi0xNS4zOTcgMS4xOTgtMjEuMDc1bDIxLjA3NS0yMS4wNzUtMTkuMjY3LTE5LjI2N0wxNC4wOTIgMTUuMzc3QzUuNTg5IDIzLjg4IDAuNSAzNC4xMTYgMCA0My41YzAgOS4zODIgNS42MzkgMTkuNjczIDE1LjM3NSAyOS40MTNsNDYuMDcgNDYuMDdjOS43MzYgOS43MzYgMjAuMDMxIDE1LjM3NSAyOS40MTMgMTUuMzczIDkuMzgyIDAgMTkuNjc1LTUuNjM5IDI5LjQxMy0xNS4zNzNsNDYuMDctNDYuMDdjOS43My05LjczNiAxNS4zNzMtMjAuMDMxIDE1LjM3My0yOS40MTMgMC05LjM4Mi01LjYzOS0xOS42NzMtMTUuMzczLTI5LjQxM3oiIGZpbGw9IiNGRkYiLz4KPC9zdmc+) | ERD 설계 도구 |
 
-## 개발 도구
-- **Frontend**
-  - React
-  - Figma (디자인)
-- **Backend**
-  - Nest.js
-  - PostgreSQL (DB)
-- **Infrastructure**
-  - Kubernetes (K8s)
-  - Istio Service Mesh
-  - Docker
-  - Harbor (이미지 저장소)
-- **CI/CD**
-  - Jenkins
-  - ArgoCD
-- **문서 작성**
-  - GitHub (버전 관리)
-  - ERD Cloud (ERD 설계)
+### 📜 참고 링크
+#### 웹사이트 도메인 : http://heim.hwys.xyz/
+#### 노션 링크 : https://www.notion.so/hodu26/bf9f047b08594d61b0cfdf7187ff0054
+#### 피그마 링크 : https://www.figma.com/design/94VkK2AepmfsD0JAo5iRKm/shop?t=pB0jxT7VeIulyMfZ-0
+#### 정리 문서 : https://docs.google.com/document/d/1Bb5gr8THt_E3g8s91y0ZwCa6x4rw_odxzHxnKjOiB3o/edit?tab=t.0
 
 ## 프로젝트 구성
 ### 주요 기능
@@ -109,15 +96,6 @@
 
 프로젝트와 관련한 질문이 있다면, 언제든지 문의해 주세요!
 
-
-
-
-## 안녕하세요. 허완, 임성혁 팀입니다. 👋
-
-#### 웹사이트 도메인 : http://heim.hwys.xyz/
-#### 노션 링크 : https://www.notion.so/hodu26/bf9f047b08594d61b0cfdf7187ff0054
-#### 피그마 링크 : https://www.figma.com/design/94VkK2AepmfsD0JAo5iRKm/shop?t=pB0jxT7VeIulyMfZ-0
-#### 정리 문서 : https://docs.google.com/document/d/1Bb5gr8THt_E3g8s91y0ZwCa6x4rw_odxzHxnKjOiB3o/edit?tab=t.0
 
 ![image](https://github.com/user-attachments/assets/f42f3539-d02e-4d01-a1cf-f6f0422c6393)
 
