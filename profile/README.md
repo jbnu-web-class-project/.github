@@ -62,6 +62,8 @@
 ## Sprint 계획
 <div align="center">
   <img src="https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee" width="45%" alt="Sprint Plan Image 1">
+</div>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/90c58818-f9db-45f0-ac0b-df787aa75e15" width="45%" alt="Sprint Plan Image 2">
 </div>
 
