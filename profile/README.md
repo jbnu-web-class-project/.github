@@ -59,6 +59,13 @@
 - **보안**: Kubernetes Security 설정
 - **모니터링**: 서비스 메시 설정
 
+## UI 구성 (FIgma)
+
+## DB 구성 (ERD CLOUD)
+
+## CICD 및 MSA 구상도
+
+
 ## Sprint 계획
 <div align="center">
   <img src="https://github.com/user-attachments/assets/164101bb-628b-4001-b731-00e28e7feaee" width="45%" alt="Sprint Plan Image 1">
@@ -93,6 +100,7 @@
   - 2024/10/10 ~ 2024/10/27: DB 서버 구축
   - 2024/10/13: 프로젝트 구상도 작성
   - 2024/10/24 ~ 2024/10/28: 프론트엔드 및 백엔드 서비스 개발
+  - 
 
 ## 기타 참고사항
 - **ERD Cloud**: 데이터베이스 설계
